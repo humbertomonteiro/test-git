@@ -1,0 +1,1 @@
+A máquina pode fazer qualquer coisa que possa ser descrita em termos de instruções simples.
